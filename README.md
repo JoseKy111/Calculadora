@@ -31,3 +31,10 @@ print("Cantidad de números pares:", cantidad_pares)
 ```
 <img
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AZZfN3ANDCsta0HlzAswffR80uajvVn8yA&s">
+
+
+## Lista de comandos
+| Comando de Git | Descripcion                                      | Ejemplo  |
+|----------------|--------------------------------------------------|----------|
+| git init       | Creacion de un repositorio                       | git init |
+| git pull       | Obtencion de la ultima version de un repositorio | git pull |

@@ -1,5 +1,12 @@
 # Calculadora Interactiva
 
+## Contenido
+* !()
+* !()
+* !()
+
+
+
 ## 📖 Explicación  
 Este proyecto es una calculadora interactiva desarrollada con tecnologías web modernas. Permite realizar operaciones matemáticas básicas y avanzadas como suma, resta, multiplicación, división y porcentajes. La calculadora cuenta con un diseño intuitivo, soporte para números negativos y funcionalidad para ajustar automáticamente el formato de los resultados, incluyendo notación científica para números muy grandes.  
 

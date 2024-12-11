@@ -29,3 +29,5 @@ numeros = [int(x) for x in entrada.split()]
 cantidad_pares = contar_pares(numeros)
 print("Cantidad de números pares:", cantidad_pares)
 ```
+<img
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AZZfN3ANDCsta0HlzAswffR80uajvVn8yA&s">

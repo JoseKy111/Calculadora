@@ -12,3 +12,20 @@ Este proyecto es una calculadora interactiva desarrollada con tecnologías web m
 Estas tecnologías fueron elegidas por su compatibilidad, eficiencia y porque permiten crear aplicaciones rápidas, accesibles y sin depender de servidores o bases de datos.  
 
 ---
+
+```python
+# Código Python – Contar Números Pares
+def contar_pares(lista):
+    contador = 0
+    for numero in lista:
+        if numero % 2 == 0:
+            contador += 1
+    return contador
+
+# Obtener la lista de números desde el usuario
+entrada = input("Ingrese una lista de números separados por espacios: ")
+numeros = [int(x) for x in entrada.split()]
+
+cantidad_pares = contar_pares(numeros)
+print("Cantidad de números pares:", cantidad_pares)
+```
